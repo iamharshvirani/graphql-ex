@@ -1,0 +1,22 @@
+# Go
+/bin/
+/pkg/
+/vendor/
+*.exe
+*.test
+*.prof
+go.sum
+
+# React
+graphql-books-client/node_modules/
+graphql-books-client/build/
+graphql-books-client/dist/
+graphql-books-client/.env*
+graphql-books-client/npm-debug.log*
+graphql-books-client/yarn-debug.log*
+graphql-books-client/yarn-error.log*
+
+# General
+.DS_Store
+.idea/
+.vscode/
